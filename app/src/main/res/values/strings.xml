@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EPFCalculator</string>
+    <string name="textView_date">Date</string>
+    <string name="txtDOB"></string>
+    <string name="textView_age">Age</string>
+    <string name="textView_basicsaving">Min. Basic Saving</string>
+    <string name="textView_invest">Allowable Invesment Amount</string>
+</resources>
